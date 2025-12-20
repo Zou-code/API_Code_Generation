@@ -1,0 +1,10 @@
+Test content: KEYWORD | file 1 | line 0
+KEYWORD - test data for file 1 line 1
+File 1 line 2 contains KEYWORD as keyword
+KEYWORD - test data for file 1 line 3
+File 1 line 4 contains KEYWORD as keyword
+File 1 line 5 contains KEYWORD as keyword
+File 1 line 6 contains KEYWORD as keyword
+KEYWORD - test data for file 1 line 7
+Sample line with KEYWORD in file 1: 8
+File 1 line 9 contains KEYWORD as keyword
