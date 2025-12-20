@@ -1,0 +1,10 @@
+reader g.memory sente.datapipe reader .python group shuffle.cache paragraph text rea.memory text group online rea.online line length file text gro.python length online torchdata reade
+shuffle .processing g.reader memory sh.processing file read.group memory online read.line online datapipe memory .file python reader group online .online reader shuffle group datapipe
+line rea.sentence rea.python length re.file torchdata shuff.length online cache text.online processing memory len.cache paragraph file line reader.torchdata cache length processing li
+cache fi.length line .group shuffle da.processing line file.processing paragraph cac.memory file paragraph torchd.processing group memory length f.memory online torchdata shuffle line
+text rea.group memory.paragraph reader.memory text sentence.text reader line process.sentence datapipe torchdata .file cache length group text sen.group sentence processing online dat
+paragrap.length text .file text paragr.file length datapipe.text memory reader file .reader online torchdata para.memory shuffle torchdata datapip.length group paragraph line sentence
+length f.text paragra.line length pyth.paragraph text sente.group python paragraph o.python line paragraph reader.paragraph datapipe text sentence.text processing python torchdata shu
+shuffle .sentence pyt.processing torch.group sentence file .datapipe online length f.shuffle group paragraph line.datapipe shuffle group python fi.online torchdata processing file sen
+datapipe.text cache l.online group tor.online file reader s.python group processing .text processing memory torch.python memory reader datapipe pa.torchdata file text reader shuffle c
+shuffle .online reade.length datapipe .line reader memory l.datapipe text online len.processing python length tex.line online shuffle length group.torchdata cache sentence processing 
