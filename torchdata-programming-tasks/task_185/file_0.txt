@@ -1,0 +1,8 @@
+Zipper pairs paragraphs with label sequences | file_0
+ParagraphAggregator combines lines into a single paragraph | file_0
+TorchData datapipe processing for task 185 | file_0
+LineReader extracts lines from the text files | file_0
+Concater merges datapipes from multiple files | file_0
+OnlineReader reads text files from GitHub URLs | file_0
+Zipper pairs paragraphs with label sequences | file_0
+Shuffler randomizes the order of paragraphs | file_0

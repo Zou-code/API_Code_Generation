@@ -1,0 +1,8 @@
+OnlineReader reads text files from GitHub URLs | file_2
+Zipper pairs paragraphs with label sequences | file_2
+Concater merges datapipes from multiple files | file_2
+OnlineReader reads text files from GitHub URLs | file_2
+Zipper pairs paragraphs with label sequences | file_2
+Shuffler randomizes the order of paragraphs | file_2
+Zipper pairs paragraphs with label sequences | file_2
+ParagraphAggregator combines lines into a single paragraph | file_2

@@ -1,0 +1,8 @@
+ParagraphAggregator combines lines into a single paragraph | file_1
+Zipper pairs paragraphs with label sequences | file_1
+Concater merges datapipes from multiple files | file_1
+Zipper pairs paragraphs with label sequences | file_1
+Zipper pairs paragraphs with label sequences | file_1
+Shuffler randomizes the order of paragraphs | file_1
+Collator batches the processed data into lists | file_1
+Zipper pairs paragraphs with label sequences | file_1
