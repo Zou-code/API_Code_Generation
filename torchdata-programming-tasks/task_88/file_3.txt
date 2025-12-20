@@ -1,0 +1,10 @@
+file line with general information
+extract info by KEYWORD matching
+normal line without special keyword
+extract info by KEYWORD matching
+file line with general information
+normal line without special keyword
+IMPORTANT: torchdata datapipe usage example
+IMPORTANT note for file handling
+random text content for testing
+random text content for testing

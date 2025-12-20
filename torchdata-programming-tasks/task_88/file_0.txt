@@ -1,0 +1,10 @@
+pay attention to this IMPORTANT message
+this is an IMPORTANT line about data processing
+this line contains KEYWORD for grouping
+IMPORTANT note for file handling
+this is an IMPORTANT line about data processing
+IMPORTANT note for file handling
+pay attention to this IMPORTANT message
+IMPORTANT note for file handling
+IMPORTANT note for file handling
+sample text for datapipe processing

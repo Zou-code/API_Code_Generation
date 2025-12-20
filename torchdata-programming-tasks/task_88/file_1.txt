@@ -1,0 +1,10 @@
+normal line without special keyword
+KEYWORD analysis for data grouping
+extract info by KEYWORD matching
+extract info by KEYWORD matching
+random text content for testing
+random text content for testing
+extract info by KEYWORD matching
+KEYWORD analysis for data grouping
+KEYWORD analysis for data grouping
+KEYWORD analysis for data grouping

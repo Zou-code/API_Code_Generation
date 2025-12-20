@@ -1,0 +1,10 @@
+IMPORTANT: torchdata datapipe usage example
+pay attention to this IMPORTANT message
+random text content for testing
+pay attention to this IMPORTANT message
+sample text for datapipe processing
+this line contains KEYWORD for grouping
+this line contains KEYWORD for grouping
+IMPORTANT: torchdata datapipe usage example
+normal line without special keyword
+pay attention to this IMPORTANT message
