@@ -1,101 +1,101 @@
-key,supplementary_value
-425,246.52
-424,275.11
-129,275.79
-207,269.09
-317,242.67
-254,222.05
-474,223.52
-253,241.88
-454,274.88
-292,248.55
-223,278.69
-27,283.79
-97,246.85
-281,288.48
-13,201.02
-160,296.56
-264,228.39
-5,224.18
-65,273.31
-5,298.92
-66,250.75
-429,219.44
-401,269.21
-92,272.55
-62,250.23
-304,244.6
-138,214.19
-393,234.32
-107,299.22
-448,259.27
-335,292.86
-337,214.66
-331,262.91
-379,223.42
-17,221.06
-166,221.12
-119,228.18
-408,202.53
-8,265.84
-204,223.06
-236,208.04
-136,273.05
-417,284.43
-79,240.78
-52,224.33
-179,212.3
-234,258.56
-66,250.45
-441,276.0
-294,290.68
-377,267.5
-272,224.88
-130,200.25
-104,266.38
-177,222.61
-356,217.09
-347,218.29
-216,261.73
-364,298.55
-456,206.5
-51,202.21
-107,296.64
-451,213.2
-430,260.0
-119,275.78
-320,248.65
-470,260.4
-429,274.59
-126,202.72
-377,278.22
-34,280.98
-248,255.87
-40,278.91
-379,206.11
-272,295.95
-447,221.08
-407,235.42
-69,261.51
-318,291.01
-84,267.45
-273,240.41
-319,273.27
-107,200.45
-353,222.32
-410,200.0
-99,250.81
-455,278.82
-9,202.9
-41,295.86
-27,281.5
-254,277.08
-310,288.49
-57,261.8
-291,271.61
-362,206.8
-269,215.64
-168,294.69
-14,237.78
-392,214.6
-254,296.32
+key,supplementary_value1,supplementary_value2,description
+key_0,X,38338,Description for key 0
+key_1,X,92436,Description for key 1
+key_2,X,99022,Description for key 2
+key_3,Z,95836,Description for key 3
+key_4,Z,22529,Description for key 4
+key_5,Z,64349,Description for key 5
+key_6,Z,46521,Description for key 6
+key_7,Z,29884,Description for key 7
+key_8,X,42220,Description for key 8
+key_9,X,11979,Description for key 9
+key_10,Y,40476,Description for key 10
+key_11,Z,66839,Description for key 11
+key_12,Y,71548,Description for key 12
+key_13,X,14796,Description for key 13
+key_14,Z,67359,Description for key 14
+key_15,Z,70243,Description for key 15
+key_16,X,13678,Description for key 16
+key_17,Y,13674,Description for key 17
+key_18,Z,16062,Description for key 18
+key_19,Z,40563,Description for key 19
+key_20,Y,35973,Description for key 20
+key_21,Y,46064,Description for key 21
+key_22,X,94303,Description for key 22
+key_23,X,21352,Description for key 23
+key_24,Z,50643,Description for key 24
+key_25,Z,22072,Description for key 25
+key_26,Y,56839,Description for key 26
+key_27,Y,15964,Description for key 27
+key_28,Z,18594,Description for key 28
+key_29,X,96159,Description for key 29
+key_30,Z,38819,Description for key 30
+key_31,Z,27735,Description for key 31
+key_32,Z,46768,Description for key 32
+key_33,Z,37333,Description for key 33
+key_34,Y,32383,Description for key 34
+key_35,X,29525,Description for key 35
+key_36,X,84420,Description for key 36
+key_37,Y,57755,Description for key 37
+key_38,X,73781,Description for key 38
+key_39,Y,49015,Description for key 39
+key_40,Z,30515,Description for key 40
+key_41,X,88599,Description for key 41
+key_42,Z,97009,Description for key 42
+key_43,Z,87146,Description for key 43
+key_44,Z,20143,Description for key 44
+key_45,Y,12952,Description for key 45
+key_46,Z,27673,Description for key 46
+key_47,Y,80890,Description for key 47
+key_48,Z,80858,Description for key 48
+key_49,Y,51812,Description for key 49
+key_50,Y,77065,Description for key 50
+key_51,Z,31184,Description for key 51
+key_52,Y,36284,Description for key 52
+key_53,Z,13748,Description for key 53
+key_54,X,74442,Description for key 54
+key_55,Y,70879,Description for key 55
+key_56,Y,24746,Description for key 56
+key_57,X,99419,Description for key 57
+key_58,Y,32998,Description for key 58
+key_59,X,45261,Description for key 59
+key_60,Y,51065,Description for key 60
+key_61,Y,36665,Description for key 61
+key_62,Y,69675,Description for key 62
+key_63,Z,69493,Description for key 63
+key_64,Z,61507,Description for key 64
+key_65,Y,58224,Description for key 65
+key_66,X,10710,Description for key 66
+key_67,Y,86305,Description for key 67
+key_68,Y,37051,Description for key 68
+key_69,Z,58051,Description for key 69
+key_70,Y,90086,Description for key 70
+key_71,Y,40348,Description for key 71
+key_72,X,28139,Description for key 72
+key_73,Y,17286,Description for key 73
+key_74,Z,59638,Description for key 74
+key_75,Z,11646,Description for key 75
+key_76,X,53300,Description for key 76
+key_77,Y,82974,Description for key 77
+key_78,Y,57587,Description for key 78
+key_79,Y,70342,Description for key 79
+key_80,Y,85341,Description for key 80
+key_81,X,27570,Description for key 81
+key_82,Y,53914,Description for key 82
+key_83,X,95767,Description for key 83
+key_84,X,93597,Description for key 84
+key_85,Y,30180,Description for key 85
+key_86,Y,67032,Description for key 86
+key_87,Y,30177,Description for key 87
+key_88,Z,17240,Description for key 88
+key_89,Z,57489,Description for key 89
+key_90,Y,13829,Description for key 90
+key_91,X,86899,Description for key 91
+key_92,Z,26416,Description for key 92
+key_93,Z,42730,Description for key 93
+key_94,Y,51042,Description for key 94
+key_95,Z,70393,Description for key 95
+key_96,Z,91890,Description for key 96
+key_97,X,77326,Description for key 97
+key_98,Y,68682,Description for key 98
+key_99,Y,69674,Description for key 99
