@@ -1,15 +1,10 @@
-1 - important information about torchdata
-1 - important information about torchdata
-This is an important line for file 1
-General information line - file 1
-1: important data processing step
-1: important data processing step
-1: important data processing step
-Test line for datapipe processing (file 1)
-1 - important information about torchdata
-Random text content for file 1
-Non-keyword content in file 1
-Non-keyword content in file 1
-Critical note: important content in file 1
-Important reminder (file 1): important task
-1: important data processing step
+content_with_important_for_file_6911
+file_902_has_important_content1
+content_with_important_for_file_2861
+file_717_has_important_content1
+file_771_has_important_content1
+file_264_has_important_content1
+content_with_important_for_file_4261
+file_701_has_important_content1
+file_794_has_important_content1
+important_line_in_file_2241

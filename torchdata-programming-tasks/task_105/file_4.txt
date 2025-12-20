@@ -1,15 +1,10 @@
-Important reminder (file 4): important task
-Critical note: important content in file 4
-This is an important line for file 4
-4 - important information about torchdata
-This is an important line for file 4
-General information line - file 4
-Critical note: important content in file 4
-4: important data processing step
-Random text content for file 4
-General information line - file 4
-Important reminder (file 4): important task
-4: important data processing step
-Test line for datapipe processing (file 4)
-Important reminder (file 4): important task
-Important reminder (file 4): important task
+important_line_in_file_1254
+file_260_has_important_content4
+content_with_important_for_file_4484
+content_with_important_for_file_5624
+important_line_in_file_4684
+file_328_has_important_content4
+important_line_in_file_1114
+content_with_important_for_file_8984
+file_393_has_important_content4
+important_line_in_file_3904
