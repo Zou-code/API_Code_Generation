@@ -1,0 +1,15 @@
+Critical note: important content in file 2
+Normal line without special keyword in file 2
+Important reminder (file 2): important task
+2 - important information about torchdata
+General information line - file 2
+2 - important information about torchdata
+Normal line without special keyword in file 2
+2 - important information about torchdata
+This is an important line for file 2
+Non-keyword content in file 2
+Normal line without special keyword in file 2
+2 - important information about torchdata
+2 - important information about torchdata
+Important reminder (file 2): important task
+This is an important line for file 2

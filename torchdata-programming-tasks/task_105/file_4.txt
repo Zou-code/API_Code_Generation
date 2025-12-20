@@ -1,0 +1,15 @@
+Important reminder (file 4): important task
+Critical note: important content in file 4
+This is an important line for file 4
+4 - important information about torchdata
+This is an important line for file 4
+General information line - file 4
+Critical note: important content in file 4
+4: important data processing step
+Random text content for file 4
+General information line - file 4
+Important reminder (file 4): important task
+4: important data processing step
+Test line for datapipe processing (file 4)
+Important reminder (file 4): important task
+Important reminder (file 4): important task
