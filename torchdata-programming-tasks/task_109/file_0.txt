@@ -1,0 +1,8 @@
+processing paragraph shuffle word test datapipe pipeline file structure directory
+cache word data download shuffle file line task assert tuple
+memory label task string read example torchdata tuple download assert
+file processing task split tuple cache line test python download
+assert download split processing read string example github pipeline file
+processing test line datapipe python shuffle pipeline text assert save
+pipeline label shuffle file combine validation processing python cache text
+data pipeline text datapipe word shuffle task save file test

@@ -1,0 +1,8 @@
+shuffle tuple validation string example read test pipeline cache datapipe
+datapipe read download combine memory torchdata split data validation cache
+directory read label line save paragraph github shuffle text torchdata
+cache line example combine word label directory text test memory
+github label tuple read paragraph structure cache datapipe split python
+tuple shuffle memory download structure task directory python paragraph text
+tuple validation text data label datapipe logic memory download word
+word label cache data validation combine tuple shuffle test torchdata
